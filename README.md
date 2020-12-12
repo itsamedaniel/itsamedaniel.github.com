@@ -1,2 +1,2 @@
 # itsamedaniel.github.com
-For my Gitblog
+I love you blair~
