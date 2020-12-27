@@ -26,3 +26,12 @@ openssl 재설치문제로 4시간째 시도중 어우
 취미생활을 잘 해야 일을 잘한다
 
 과제 막바지 기간. 더 열심히 하자 
+
+
+my plans on studying.
+Jan- Online university Final-term
+Feb- Certificate(network administrator writing)
+Mar- Certificate(Linux Master writing),TOEIC
+Apr- Certificate(Network administrator practical), Certificate(CCNA)
+May- Certificate(Linux Master practical), Certificate(Engineering on information processing writing)
+July- Certificate(Engineering of information processing practical), TOEFL
