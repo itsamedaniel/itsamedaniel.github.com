@@ -35,3 +35,5 @@ Mar- Certificate(Linux Master writing),TOEIC
 Apr- Certificate(Network administrator practical), Certificate(CCNA)
 May- Certificate(Linux Master practical), Certificate(Engineering on information processing writing)
 July- Certificate(Engineering of information processing practical), TOEFL
+
+과제 3개 완료. 곧 과제 4개 완료 예정.
