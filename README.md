@@ -37,3 +37,6 @@ May- Certificate(Linux Master practical), Certificate(Engineering on information
 July- Certificate(Engineering of information processing practical), TOEFL
 
 과제 3개 완료. 곧 과제 4개 완료 예정.
+
+이전에 만들었던 채팅웹사이트에 서버를 직접세워서 gns3를 이용해서 대용량 트래픽을 발생시키는 것을 결합해보면 어떨까?
+여기에 MRTG정보를 수신하는 NMS를 만들면 어떨까?
