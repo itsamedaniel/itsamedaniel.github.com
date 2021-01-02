@@ -42,3 +42,6 @@ July- Certificate(Engineering of information processing practical), TOEFL
 여기에 MRTG정보를 수신하는 NMS를 만들면 어떨까?
 
 new years' resolution!
+
+
+컴터를 사긴 해야겠다 
