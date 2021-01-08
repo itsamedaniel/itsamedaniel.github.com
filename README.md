@@ -53,3 +53,5 @@ new years' resolution!
 자기발전하기 
 
 과제제출 3
+
+능동적 빚갚기(?)
